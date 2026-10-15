@@ -1,13 +1,16 @@
 # temires-files
 
-Публичные файлы для сайта [temires.kz](https://temires.kz): презентация компании и фоновое видео первого экрана. Сайт берёт их через CDN jsDelivr, например `https://cdn.jsdelivr.net/gh/lumeincc/temires-files@v1/temires-presentation.pdf`.
+Публичные файлы для сайта [temires.kz](https://temires.kz): презентация компании, фоновое видео первого экрана и фото продукции. Сайт берёт их через CDN jsDelivr, например `https://cdn.jsdelivr.net/gh/lumeincc/temires-files@v1/temires-presentation.pdf`.
 
 | Файл | Что это |
 |---|---|
-| `temires-presentation.pdf` | Презентация ТОО «ТемирЭнергоСтрой», 17 слайдов |
+| `temires-presentation.pdf` | Презентация ТОО «ТемирЭнергоСтрой», 18 слайдов |
 | `hero-720.mp4` | Фон первого экрана для компьютеров, 1280 × 720, 14,5 с, без звука |
 | `hero-540.mp4` | То же для телефонов, 960 × 540 |
 | `hero-poster.jpg` | Первый кадр видео: показывается, пока видео грузится |
+| `photos/pir-*.webp` | Печи-инсинераторы, вырезанные из фото с площадки: прозрачный фон и мягкая тень, 1400 × 1120 |
+| `photos/kotel-zelenyi.jpg`, `photos/kotelnaya.jpg` | Котельные: живые кадры после ретуши, 1500 × 1200 |
+| `photos/shkaf-upravleniya.jpg` | Шкаф управления инсинератора, 1500 × 1200 |
 
 Видео собрано из трёх роликов с [Pexels](https://www.pexels.com/license/) (бесплатная лицензия, без указания автора): [плазменная резка](https://www.pexels.com/video/crop-person-working-on-metal-with-plasma-cutter-5846591/), [сварка в цеху](https://www.pexels.com/video/man-working-at-welding-in-factory-10641848/), [искры от шлифовки](https://www.pexels.com/video/sparks-from-grinding-a-metal-2386581/).
 
