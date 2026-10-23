@@ -12,7 +12,12 @@
 | `photos/bmz-*.webp` | Блочно-модульные здания, вырезанные из фото: прозрачный фон и мягкая тень, 1400 × 1120 |
 | `photos/kotel-zelenyi.jpg`, `photos/kotelnaya.jpg` | Котельные: живые кадры после ретуши, 1500 × 1200 |
 | `photos/shkaf-upravleniya.jpg` | Шкаф управления инсинератора, 1500 × 1200 |
+| `products-1080.mp4` | Ролик о продукции для блока «Четыре направления»: инсинераторы, котельные, металлоконструкции, модули; 1920 × 1080, 26 с, без звука и без надписей (подписи на трёх языках даёт сайт) |
+| `products-720.mp4` | То же для телефонов, 1280 × 720 |
+| `products-poster.jpg` | Кадр ролика, пока видео не загрузилось |
 
-Видео собрано из трёх роликов с [Pexels](https://www.pexels.com/license/) (бесплатная лицензия, без указания автора): [плазменная резка](https://www.pexels.com/video/crop-person-working-on-metal-with-plasma-cutter-5846591/), [сварка в цеху](https://www.pexels.com/video/man-working-at-welding-in-factory-10641848/), [искры от шлифовки](https://www.pexels.com/video/sparks-from-grinding-a-metal-2386581/).
+Видео первого экрана собрано из трёх роликов с [Pexels](https://www.pexels.com/license/) (бесплатная лицензия, без указания автора): [плазменная резка](https://www.pexels.com/video/crop-person-working-on-metal-with-plasma-cutter-5846591/), [сварка в цеху](https://www.pexels.com/video/man-working-at-welding-in-factory-10641848/), [искры от шлифовки](https://www.pexels.com/video/sparks-from-grinding-a-metal-2386581/).
 
 Новую версию файлов выкладывайте с новым тегом (`v2`, `v3`…) и меняйте тег в ссылках на сайте: так CDN сразу отдаст новый файл.
+
+Ролик о продукции нарисован кодом из наших фото (генератор `brand/_src/products-film.mjs` в репозитории сайта).
